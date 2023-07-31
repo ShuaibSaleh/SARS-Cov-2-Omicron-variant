@@ -32,12 +32,13 @@
 # Team Members
 <br><br>
 
-|Name | Sec. |
-|-----------------|-----------------|
-| Osamah Faisl | 1 | 
-| Shuaib Abdulsalam | 1 | 
-| Yasmin Yasser  | 2 |
-| Gufran Mohammed  | 2 |
+
+| N             | Name          |
+| ------------- | ------------- |
+| 1             | Osamah Faisal |
+| 2             | Shuaib Abdulsalam  |
+| 3             | Yasmin Yasser |
+| 4             | Gufran Mohammed |
 
 
 
