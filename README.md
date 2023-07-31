@@ -27,6 +27,17 @@
 4. The similarity between the consensus sequence and the individual Omicron is very close so we can say that Delta and Omicron are from the same family.
 
 
+<br>
+
+# Team Members
+<br><br>
+
+|Name | Sec. |
+|-----------------|-----------------|
+| Osamah Faisl | 1 | 
+| Shuaib Abdulsalam | 1 | 
+| Yasmin Yasser  | 2 |
+| Gufran Mohammed  | 2 |
 
 
 
